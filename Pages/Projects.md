@@ -2,13 +2,13 @@
 
 <h1 align="center">Projects</h1>
 
-[React Portfolio](https://github.com/thoresonjd/react-portfolio) | August 2022 - Present
-* Designing and creating my own personal portfolio website in React
-* React, TypeScript, NodeJS, GitHub, VS Code
-
+[Markdown Portfolio](https://github.com/ithoithii/ithoithii.github.io)
+* Created a template to easily construct, customize, and publicize a personal portfolio
+* Markdown, GitHub
 ---
 
 
 ---
 
 [Back to main page](./../README.md)
+
